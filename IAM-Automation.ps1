@@ -29,7 +29,6 @@ if (-not $username) {
 # =============================
 # CONFIGURATION (USER INPUT REQUIRED)
 # =============================
-# Fill these values according to your environment
 
 $SearchBase   = "<OU=Users,DC=company,DC=com>"
 $GroupsBase   = "<OU=Groups,DC=company,DC=com>"
